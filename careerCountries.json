@@ -1,0 +1,18 @@
+
+{
+  "Software Engineering": ["USA", "India", "Canada", "Germany", "UK", "China"],
+  "Robotics": ["Japan", "Germany", "South Korea", "USA", "Switzerland"],
+  "Medicine": ["USA", "UK", "Germany", "Switzerland", "Canada", "Australia"],
+  "Business": ["USA", "Singapore", "UK", "Germany", "Hong Kong", "UAE"],
+  "Art & Design": ["France", "Italy", "USA", "Japan", "UK", "Spain"],
+  "Data Science": ["USA", "India", "UK", "Canada", "Germany", "Australia"],
+  "Aerospace Engineering": ["USA", "Russia", "France", "Germany", "Japan", "India"],
+  "Environmental Science": ["USA", "Germany", "Sweden", "Netherlands", "Australia", "Canada"],
+  "Finance": ["USA", "UK", "Singapore", "Switzerland", "Hong Kong", "Germany"],
+  "Law": ["USA", "UK", "Canada", "Australia", "Germany", "France"],
+  "Education & Teaching": ["USA", "Finland", "UK", "Canada", "Australia", "Japan"],
+  "Journalism & Media": ["USA", "UK", "Canada", "France", "Germany", "Australia"],
+  "Entrepreneurship": ["USA", "India", "China", "UK", "Singapore", "Israel"],
+  "Pharmaceuticals": ["USA", "Switzerland", "Germany", "India", "UK", "Japan"],
+  "Agriculture & Food Science": ["USA", "Netherlands", "Brazil", "India", "Australia", "France"]
+}

@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* optional background */
+body {
+  @apply bg-gradient-to-br from-blue-900 via-purple-800 to-black text-white;
+}

@@ -1,0 +1,38 @@
+{
+  "Software Engineering": [
+    {
+      "question": "Which of the following is a programming language?",
+      "options": ["HTML", "CSS", "Python", "Photoshop"],
+      "answer": "Python"
+    },
+    {
+      "question": "What does OOP stand for?",
+      "options": ["Object Oriented Programming", "Only One Process", "Open Original Program", "Order of Processing"],
+      "answer": "Object Oriented Programming"
+    }
+  ],
+  "Data Science": [
+    {
+      "question": "Which library is commonly used for data analysis in Python?",
+      "options": ["TensorFlow", "Pandas", "React", "Flask"],
+      "answer": "Pandas"
+    },
+    {
+      "question": "Which type of learning uses labeled data?",
+      "options": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "Deep Learning"],
+      "answer": "Supervised Learning"
+    }
+  ],
+  "Business": [
+    {
+      "question": "What does ROI stand for?",
+      "options": ["Return on Investment", "Rate of Interest", "Range of Income", "Revenue over Investment"],
+      "answer": "Return on Investment"
+    },
+    {
+      "question": "Which of the following is a financial statement?",
+      "options": ["Balance Sheet", "SWOT Analysis", "Marketing Plan", "Business Model Canvas"],
+      "answer": "Balance Sheet"
+    }
+  ]
+}
